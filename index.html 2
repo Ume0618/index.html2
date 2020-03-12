@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+
+    <!--Google Analytics Content Experiment code -->
+    <script>function utmx_section(){}function utmx(){}(function(){var
+    k='123060331-4',d=document,l=d.location,c=d.cookie;
+    if(l.search.indexOf('utm_expid='+k)>0)return;
+    function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
+    indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
+    length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
+    '<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
+    '://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
+    '&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
+    valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+    '" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
+    </script><script>utmx('url','A/B');</script>
+    <!--End of Google Analytics Content Experiment code -->
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="マンション・不動産の売却なら東急リバブルへ！選ばれる理由は、豊富な不動産取引実績、膨大な購入希望者データ、売却後の補修費用サポート、不動産・税務のプロの無料相談など様々。さぁ、まずは東急リバブルで無料査定！">
+<mata name="robots" content="noindex">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no,address-no,email=no">
+<meta name=twitter:card" content="summary_large_image"/>
+<meta property="og:type" content="website">
+<meta property="og:ul" content="">
+<meta property="og:url" content="">
+<meta property="og:title" content="あなたの不動産、今いくら？｜東急リバブル">
+<meta property="og:description" content="マンション・不動産の売却なら東急リバブルへ！選ばれる理由は、豊富な不動産取引実績、膨大な購入希望者データ、売却後の補修費用サポート、不動産・税務のプロの無料相談など様々。さぁ、まずは東急リバブルで無料査定！">
+<meta property="og:image" content"https://www.livable.co.jp/assets/images/original/OGP.png">
+<meta property="og:locale" content="ja_JP">
+<link rel="dns-prefetch" href="//www.livable.co.jp">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="preconnect" href="https://www.livable.co.jp">
+<link rel="preconnect" herf="https://fonts.googleapis.com">
+<title>あなたの不動産、今いくら？｜東急リバブル</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=KynZbH0s0brl7hCl81-45g&gtm_preview=env-120&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MG5FDW');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="canonical" href="https://www.livable.co.jp/baikyaku/lp_b/"/>
+
+
+<link rel="stylesheet" href="/styles/main.css?20200226120438" media="all">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans" media="all">
+
+</head>
+<body id="top">
+
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MG5FDW&gtm_auth=KynZbH0s0brl7hCl81-45g&gtm_preview=env-120&gtm_cookies_win=x"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <header class="o-header o-header--simple">
+    <div class="o-header__inner">
+      <p class="o-header__logo-wrapper">
+        <a class="o-header__logo" href="/">東急リバブル</a>
+      </p>
+    </div>
+  </header>
+
+
+<link rel="stylesheet" href="/styles/baikyaku-lp_pc.css" media="all">
+<main class="o-main">
+  <div id="content">
+    <div id="mainCatch">
+      <div id="mainWrap">
+        <div class="inner">
+          <h1><img src="/images/baikyaku-lp_pc/index_ti01.png" width="593" height="595" alt="大切な不動産…売る？売らない？今、いくらか聞いてから考えよう！ 入力はカンタン60秒 査定無料" title="大切な不動産…売る？売らない？今、いくらか聞いてから考えよう！ 入力はカンタン60秒 査定無料"></h1>
+          <section class="formBox">
+            <form action="#" method="POST" autocomplete="off">
+              <div class="topVisual__assessmentArea--inner">
+                <h2 class="topVisual__assessmentArea__ttl"><img src="/images/baikyaku-lp_pc/index_ti02.png" alt="かんたん60秒入力 査定無料！あなたの不動産はいくら？" width="433" height="73"></h2>
+                  <div class="topVisual__assessmentArea__contents">
+                    <div class="topVisual__assessmentArea__stepBox">
+                      <div class="topVisual__assessmentArea__stepTitle"><img src="/images/baikyaku-lp_pc/index_tx02.png" width="47" height="11" alt="Step1"></div>
+                        <div class="topVisual__assessmentArea__stepSelect">
+                          <dl class="topVisual__assessmentArea__stepSelect__item">
+                            <dt class="topVisual__assessmentArea__stepSelect__item__ttl">物件種別<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></dt>
+                              <dd class="topVisual__assessmentArea__stepSelect__item__list">
+                                <div class="topVisual__assessmentArea__stepSelect__item__list__selectBox">
+                                  <select id="js-assessment-property_type-1">
+                                    <option value="" selected="selected">選択してください</option>
+                                    <option value="1">マンション</option>
+                                    <option value="3">一戸建て</option>
+                                    <option value="2">土地</option>
+                                    <option value="99">その他</option>
+                                  </select>
+                                </div><span class="ok-icon" id="js-assessment-propety-type-ok-1">OK</span>
+                              </dd>
+                            </dl>
+                          </div>
+                        </div>
+                        <div class="topVisual__assessmentArea__stepBox">
+                          <div class="topVisual__assessmentArea__stepTitle"><img src="/images/baikyaku-lp_pc/index_tx03.png" width="50" height="11" alt="Step2"></div>
+                          <div class="topVisual__assessmentArea__stepSelect">
+                            <div class="topVisual__assessmentArea__stepSelect__item">
+                                <div class="topVisual__assessmentArea__stepSelect__item__ttl">都道府県<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                                <div class="topVisual__assessmentArea__stepSelect__item__list">
+                                  <div class="topVisual__assessmentArea__stepSelect__item__list__selectBox">
+                                    <select required="" id="js-assessment-prefecture-1">
+                                      <option value="" selected="selected">選択してください</option>
+                                      <optgroup label="北海道・東北地方">
+                                        <option value="01">北海道</option>
+                                        <option value="02">青森</option>
+                                        <option value="03">岩手</option>
+                                        <option value="04">宮城</option>
+                                        <option value="05">秋田</option>
+                                        <option value="06">山形</option>
+                                        <option value="07">福島</option>
+                                      </optgroup>
+                                      <optgroup label="関東地方">
+                                        <option value="13">東京</option>
+                                        <option value="14">神奈川</option>
+                                        <option value="11">埼玉</option>
+                                        <option value="12">千葉</option>
+                                        <option value="08">茨城</option>
+                                        <option value="09">栃木</option>
+                                        <option value="10">群馬</option>
+                                      </optgroup>
+                                      <optgroup label="甲信越・北陸地方">
+                                        <option value="19">山梨</option>
+                                        <option value="15">新潟</option>
+                                        <option value="20">長野</option>
+                                        <option value="16">富山</option>
+                                        <option value="17">石川</option>
+                                        <option value="18">福井</option>
+                                      </optgroup>
+                                      <optgroup label="東海地方">
+                                      <option value="23">愛知</option>
+                                      <option value="21">岐阜</option>
+                                      <option value="24">三重</option>
+                                      <option value="22">静岡</option>
+                                      </optgroup>
+                                      <optgroup label="近畿地方">
+                                       <option value="27">大阪</option>
+                                       <option value="28">兵庫</option>
+                                       <option value="26">京都</option>
+                                       <option value="25">滋賀</option>
+                                       <option value="29">奈良</option>
+                                       <option value="30">和歌山</option>
+                                       </optgroup>
+                                       <optgroup label="中国地方">
+                                      <option value="34">広島</option>
+                                      <option value="33">岡山</option>
+                                      <option value="31">鳥取</option>
+                                      <option value="32">島根</option>
+                                      <option value="35">山口</option>
+                                    </optgroup>
+                                    <optgroup label="四国地方">
+                                      <option value="36">徳島</option>
+                                      <option value="37">香川</option>
+                                      <option value="38">愛媛</option>
+                                      <option value="39">高知</option>
+                                    </optgroup>
+                                    <optgroup label="九州地方">
+                                      <option value="40">福岡</option>
+                                      <option value="41">佐賀</option>
+                                      <option value="42">長崎</option>
+                                      <option value="43">熊本</option>
+                                      <option value="44">大分</option>
+                                      <option value="45">宮崎</option>
+                                      <option value="46">鹿児島</option>
+                                      <option value="47">沖縄</option>
+                                    </optgroup>
+                                  </select>
+                          <div><span class="ok-icon" id="js-assessment-prefecture-ok-1">OK</span>
+                        </div>
+                      </div>
+                      <div class="topVosual__assessmentArea__stepSelect__item">
+                          <div class="topVisual__assessmentArea__stepSelect__item__ttl">市区町村<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                          <div class="topVisual__assessmentArea__setepSelect__item__list">
+                            <div class="topVisual__assessmentArea__setepSelect__item__list__selectBox">
+                              <select id="js-assessment-municipality-1" required="">
+                                <option value="">選択してください</option>
+                              </select>
+                            </div><span class="ok-icon" id="js-assessment-municipality-ok-1">OK</span>
+                          </div>
+                        </div>
+                        <div class="topVosual__assessmentArea__stepSelect__item">
+                          <div class="topVisual__assessmentArea__stepSelect__item__ttl>町名<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                          <div class="topVisual__assessmentArea__stepSelect__item__list">
+                          <div class="topVisual__assessmentArea__stepSelect__item__list__selectBox">
+                            <select id="js-assessment-town-1" required="">
+                              <option value="" selected="selected">選択してください</option>
+                          </select>
+                        </div><span class="ok-icon" id="js-assessment-town-ok-1">OK</span>
+                      </div>
+                    </div>
+                    <div class="topVisual__assessmentArea__setepSelect__item">
+                      <div class="topVisual__assessmentArea__stepSelect__item__ttl">丁目<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                        <div class="topVisual__assessmentArea__stepSelect__item__list">
+                          <div class="topVosual__assessmentArea__stepSelect__item__list">
+                            <div class="topVisual__assessmentArea__setepSelect__item__list__selectBox">
+                              <select id="js-assessment-block-1" required="">
+                                <option value="" selected="selected">選択してください</option>
+                            </select>
+                          </div><span class="ok-icon" id="js-assessment-block-ok-1">OK</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="topVisual__assessmentArea__oneFound" id="js-assessment-one-found-1" style="display:none;">
+                  <div class="topVisual__assessmentArea__btnWrap">
+                    <button class="topVisual__assessmentArea__btnWrap--mail rollover" id="js-assessment-mail-one-1"><span class="topVisual__assessmentArea__btnWrap--mail rollover" id="js-assessment-mail-one-1"><span class="topVisual__assessmentArea__btnWrap--mail__inner"><span class="info">メールで無料査定に申込む</span></span></button>
+                      <div class="topVisual__assessmentArea__btnWrap--tel inactive">
+                        <div class="topVisual__assessmentArea__btnWrap--tel__inner">
+                          <p class="info">電話で無料査定に申込む</p>
+                          <p class="tel" id="js-assessment-tel-number-1">-</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="topVisual__assessmentArea__sTxWrapper">
+                      <div class="topVisual__assessmentArea__sTxt">
+                        <div class="storeName">担当店舗：<span id="js-assessment-organization-name-1">-</span></div>
+                        <div class="storeinfo">定休日：<span id="js-assessment-organization-holiday-1">-</span><br>営業時間：<span id="js-assessment-organization-time-1">-</span></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="topVisual__assessmentAreaPattern--multiFound" id="js-assessment-multi-found-1" style="display: none;">
+                  <div class="topVisual__assessmentArea__btnWrapper">
+                    <button class="topVisual__assessmentArea__btnWrap--mail" id="js-assessment-mail-multi-1"><span class="topVisual__assessmentArea__btnWrap--mail__inner"><span class="info">メールで無料査定に申込む</span></span></button>
+                  </div>
+                  <div class="topVisual__assessmentArea__sTxtWrapper">
+                    <p class="topVisual__assessmentArea__sTxt">お選びいただいたエリアで複数の店舗が見つかりました。当社からお客様に最適な店舗をご提案させていただきますので、まずはメールでお問合せください。</p>
+                  </div>
+                </div>
+                <div class="topVisual__assessmentAreaPattern--notFound" id="js-assessment-not-found-1" style="display:none;">
+                  <div class="topVisual__assessmentArea__sTxtWrapper">
+                    <div class="topVisual__assessmentArea__sTxt">大変申し訳ございません。<br>お客様がお選びいただいた地域は当社営業エリア外となっております。恐れ入りますが、物件所在地域の不動産会社へご相談ください。</p>
+                    </div>
+                  </div>
+                  <div class="topVisual__assessmentAreaPattern--default" id="js-assessment-default-1">
+                <div class="topVisual__assessmentArea__btnWrap">
+                    <div class="topVisual__assessmentArea__btnWrap--mail inactive">
+                      <div class="infoForm" style="display:none;">物件種別を選択してください<br>都道府県を選択してください<br>市区町村を選択してください<br>町名を選択してください<br>丁目を選択してください</div>
+                      <div class="topVisual__assessmentArea__btnWrap--mail__inner">
+                        <p class="info">メールで無料査定に申込む</p>
+                      </div>
+                  </div>
+                </div>
+                <div class="topVisual__assessmentArea__btnWrap"
+                  <div class="topVisual__assessmentArea__btnWrap--tel inactive">
+                    <div class="topVisual__assessmentArea__btnWrap--tel__inner">
+                      <p class="info">電話で無料査定に申込む</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </form>
+          <!--/.formBox-->
+        </section>
+        <!-- /.inner-->
+      </div>
+      <!--/#mainCatch-->
+    </div>
+    <div class="inner">
+      <section id="wish">
+        <h2><img src="/images/baikyaku-lp_pc/index_ti05.png" width="960" height="90" alt="不動産の売却をお考えの皆様　こんなご希望ありませんか？"></h2>
+        <p><img src="/images/baikyaku-lp_pc/index_im02.jpg" width="960" height="266" alt="早く売りたい　高く売りたい　確実に売りたい"></p>
+        <p><img src="/images/baikyaku-lp_pc/index_im02.jpg" width="960" height="266" alt="早く売りたい　高く売りたい　確実に売りたい"width="960" height="139" alt="それなら東急リバブルにおまかせください！！"></p>
+      </section>
+      <!--/inner-->
+    </div>
+    <section id="reason">
+      <h2><img src="/images/baikyaku-lp_pc/index_ti06.png"width="810" height="60" alt="東急リバブルが選ばれる理由"></h2>
+      <section id="reason01">
+        <h3><img src="/images/baikyaku-lp_pc/index_ti07.png"width="960" height="113" alt="1.やっぱり安心！豊富な不動産取引実績"></h3>
+        <div class="inner">
+          <div class-"column">
+            <div class="col">
+              <p><img src="/images/baikyaku-lp_pc/index_tx05.png"width="436" height="121" alt="年間の売買仲介取扱件数25,570件"></p>
+              <p>1日なら約70件、21分に1件の計算になります。<br>毎日の豊富な実績の積み重ねによるノウハウが私たちの武器です。</p>
+            </div>
+            <p class="col"><img src="/images/baikyaku-lp_pc/index_im03.png"width="960" height="113" alt="2.独自の多彩な販売チャネルで早期売却を実現！"></h3>
+            </div>
+          </div>
+        </section>
+    <section id="reason02">
+      <h3><img src="/images/baikyaku-lp_pc/index_ti08.png" width="960" height="113" alt="2.独自の多彩な販売チャネルで早期売却を実現！"></h3>
+              <div class="inner">
+                <div class="txtBox">
+                  <p class="lead">幅広く膨大な購入希望者にアプローチしてマッチング！</p>
+                  <p class="text">多彩なチャネルを通じて、幅広い不動産ご購入希望者様に、お客様の物件をスピーディーにご紹介するため早期売却が期待できます。</p>
+                </div>
+                <p><img src="/images/baikyaku-lp_pc/index_im04.png"width="433" height="341" alt=""></p>
+              </div>
+            </section>
+          <section id="reason03">
+            <h3><img src="/images/baikyaku-lp_pc/index_ti09.png" width="960" height="120" alt="3.万一、売れなくてもリバブルが購入！　リバブル売却保証"></h3>
+            <div class="inner">
+              <div class="txtBox">
+                <p class="lead">いつ？いくらで売れる？不安を解消！</p>
+                <p class="text">期日内に売れない場合は、東急リバブルが買主となりお客様のご所有不動産を直接購入いたします。（当社審査後）</p>
+              </div>
+              <p><img src="/images/baikyaku-lp_pc/index_im07.jpg" alt="万が一、売れなくても東急リバブルが買い上げるから安心！" width="480" height="281"></p>
+            </div>
+          </section>
+          <section id="reason04">
+            <h3><img src="/images/baikyaku-lp_pc/index_ti12.png" width="960" height="121" alt="4.意外と多い売却後のトラブル　売却後の補修費用もサポート！　リバブルあんしん仲介保証"></h3>
+            <div class="inner">
+              <div class="txtBox">
+                <p class="lead">いつ？いくらで売れる？不安を解消！</p>
+                <p class="text">期日内に売れない場合は、東急リバブルが買主となりお客様のご所有不動産を直接購入いたします。（当社審査後）</p>
+                <p><img src="/images/baikyaku-lp_pc/index_im07.jpg" alt="万が一、売れなくても東急リバブルが買い上げるから安心！" width="480" height="281"></p>
+              </section>
+        <section id="reason02">
+          <h3><img src="/images/baikyaku-lp_pc/index_ti08.png" width="960" height="113" alt="2.独自の多彩な販売チャネルで早期売却を実現！"></h3>
+          <div class="inner">
+            <div class="txtBox">
+              <p class="lead">幅広く膨大な購入希望者にアプローチしてマッチング！</p>
+              <p class="text">多彩なチャネルを通じて、幅広い不動産ご購入希望者様に、お客様の物件をスピーディーにご紹介するため早期売却が期待できます。</p>
+            </div>
+            <p><img src="/images/baikyaku-lp_pc/index_im04.png" width="433" height="341" alt=""></p>
+          </div>
+        </section>
+        <section id="reason03">
+          <h3><img src="/images/baikyaku-lp_pc/index_ti09.png" width="960" height="120" alt="3.万一、売れなくてもリバブルが購入！　リバブル売却保証"></h3>
+          <div class="inner">
+            <div class="txtBox">
+              <p class="lead">いつ？いくらで売れる？不安を解消！</p>
+              <p class="text">期日内に売れない場合は、東急リバブルが買主となりお客様のご所有不動産を直接購入いたします。（当社審査後）</p>
+            </div>
+            <p><img src="/images/baikyaku-lp_pc/index_im07.jpg" alt="万が一、売れなくても東急リバブルが買い上げるから安心！" width="480" height="281"></p>
+          </div>
+        </section>
+        <section id="reason04">
+          <h3><img src="/images/baikyaku-lp_pc/index_ti12.png" width="960" height="121" alt="4.意外と多い売却後のトラブル　売却後の補修費用もサポート！　リバブルあんしん仲介保証"></h3>
+          <div class="inner">
+            <p class="lead">「リバブルあんしん仲介保証」なら瑕疵対応費用をリバブルが保証！</p>
+            <p class="text">無料で建物・住宅設備検査を行い、補修費用を最長2年間、最大500万円まで保証します。</p>
+            <p><img src="/images/baikyaku-lp_pc/index_im08.png" alt="●一戸建てやマンションの場合　最長2年間　検査・補修費用を最大500万円※まで保証！" width="949" height="172"></p>
+            <ul class="note">
+              <li>仲介保証・住宅設備保証の保証期間（最長2年間）は、2016年6月9日以降に売買契約を締結され、保証申込みされた方に適用されます。</li>
+              <li>雨漏り、建物構造上主要な部位の木部の腐蝕（一戸建のみ）、給排水管の故障、シロアリの害に対する駆除・補修費用、上限500万円（税込・免責なし）</li>
+            </ul>
+          </div>
+        </section>
+        <section id="reason05">
+          <h3><img src="/images/baikyaku-lp_pc/index_ti14.png" width="960" height="112" alt="5.不動産・税務に関する疑問・不安はプロがサポート！"></h3>
+          <div class="inner">
+            <div class="column">
+              <section="col">
+                <h4><img src="/images/baikyaku-lp_pc/index_ti19.png" width="383" height="60" alt="営業マンの約98％※が「宅地建物取引士」　市況に合わせた価格や売り時をアドバイス"></h4>
+                <p><img src="/images/baikyaku-lp_pc/index_im11.jpg" width="430" height="247" alt=""></p>
+                <p class="note">2019年12月1日時点、当社売買仲介営業職（管理職含む）における宅建保有率</p>
+              </section>
+              <section>
+                <h4><img src="/images/baikyaku-lp_pc/index_ti20.png" width="429" height="60" alt="不動産に関する税務や法律について専門家による無料相談会を実施！　無料"></h4>
+                <p><img src="/images/baikyaku-lp_pc/index_im12.jpg" width="430" height="247" alt=""></p>
+              </section>
+            </div>
+          </div>
+        </section>
+      </section>
+      <section id="lastBox">
+        <h2><img src="/images/baikyaku-lp_pc/index_ti17.png" width="581" height="162" alt="だから選ばれています！"></h2
+          <p><img src="/images/baikyaku-lp_pc/index_im13.png" width="960" height="334" alt="お取引いただいたお客様の9割以上がまた当社を利用したいと回答"></p>
+          <section class="formBox js_lp_last">
+            <for method="POST" autocomplete="off">
+              <h3><img src="/images/baikyaku-lp_pc/index_ti18.png" width="960" height="108" alt="さぁ まずは無料査定！お気軽にどうぞ！　かんたん60秒入力 不動産売却査定無料！あなたの不動産はいくら？"></h3>
+              <div class="formlnner">
+                <div class="topVisual__assessmentArea__stepBox">
+                  <div class="topVisual__assessmentArea__stepTitle"><img src="/images/baikyaku-lp_pc/index_tx02.png" width="47" height="11" alt="Step1"></div>
+                  <div class="topVisual__assessmentArea__stepSelect">
+                    <div class="topVisual__assessmentArea__stepSelect__item">
+                      <div class="topVisual__assessmentArea__stepSelect__item__ttl">物件種別<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                      <div class="topVisual__assessmentArea__stepSelect__item__list">
+                        <div class="topVisual__assessmentArea__stepSelect__item__list__selectBox">
+                          <select id="js-assessment-property-type-2">
+                            <option value="" selected="selected">選択してください</option>
+                            <option value="1">マンション</option>
+                            <option value="3">一戸建て</option>
+                            <option value="2">土地</option>
+                            <option value="99">その他</option>
+                          </select>
+                        </div><span class="ok-icon" id="js-assessment-property-type-ok-2">OK</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="topVisual__assessmentArea__stepBox">
+                  <div class="topVisual__assessmentArea__stepTitle"><img src="/images/baikyaku-lp_pc/index_tx03.png" width="50" height="11" alt="Step2"></div>
+                  <div class="topVisual__assessmentArea__stepSelect">
+                    <div class="formWrap formWrap--no-border">
+                      <div class="topVisual__assessmentArea__stepSelect__item">
+                        <div class-"topVisual__assessmentArea__stepSelect__item__ttl">都道府県<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                        <div class="topVisual__assessmentArea__stepSelect__item__list">
+                          <div class="topVisual__assessmentArea__stepSelect__item__list__selectBox">
+                            <select id="js-assessment-prefecture-2" required="">
+                              <option value="" selected="selected">選択してください</option>
+                              <optgroup label="北海道・東北地方">
+                            <option value="01">北海道</option>
+                            <option value="02">青森</option>
+                            <option value="03">岩手</option>
+                            <option value="04">宮城</option>
+                            <option value="05">秋田</option>
+                            <option value="06">山形</option>
+                            <option value="07">福島</option>
+                          </optgroup>
+                          <optgroup label="関東地方">
+                            <option value="13">東京</option>
+                            <option value="14">神奈川</option>
+                            <option value="11">埼玉</option>
+                            <option value="12">千葉</option>
+                            <option value="08">茨城</option>
+                            <option value="09">栃木</option>
+                            <option value="10">群馬</option>
+                          </optgroup>
+                          <optgroup label="甲信越・北陸地方">
+                            <option value="19">山梨</option>
+                            <option value="15">新潟</option>
+                            <option value="20">長野</option>
+                            <option value="16">富山</option>
+                            <option value="17">石川</option>
+                            <option value="18">福井</option>
+                          </optgroup>
+                          <optgroup label="東海地方">
+                            <option value="23">愛知</option>
+                            <option value="21">岐阜</option>
+                            <option value="24">三重</option>
+                            <option value="22">静岡</option>
+                          </optgroup>
+                          <optgroup label="近畿地方">
+                            <option value="27">大阪</option>
+                            <option value="28">兵庫</option>
+                            <option value="26">京都</option>
+                            <option value="25">滋賀</option>
+                            <option value="29">奈良</option>
+                            <option value="30">和歌山</option>
+                          </optgroup>
+                          <optgroup label="中国地方">
+                            <option value="34">広島</option>
+                            <option value="33">岡山</option>
+                            <option value="31">鳥取</option>
+                            <option value="32">島根</option>
+                            <option value="35">山口</option>
+                          </optgroup>
+                          <optgroup label="四国地方">
+                            <option value="36">徳島</option>
+                            <option value="37">香川</option>
+                            <option value="38">愛媛</option>
+                            <option value="39">高知</option>
+                          </optgroup>
+                          <optgroup label="九州地方">
+                            <option value="40">福岡</option>
+                            <option value="41">佐賀</option>
+                            <option value="42">長崎</option>
+                            <option value="43">熊本</option>
+                            <option value="44">大分</option>
+                            <option value="45">宮崎</option>
+                            <option value="46">鹿児島</option>
+                            <option value="47">沖縄</option>
+                          </optgroup>
+                        </select>
+                      </div><span class="ok-icon" id="js-assessment-prefecture-ok-2">OK</span>
+                    </div>
+                  </div>
+                <div class="topVisual__assessmentArea__stepSelect__item">
+                  <div class="topVisual__assessmentArea__stepSelect__item__ttl">市区町村<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                  <div class="topVisual__assessmentArea__stepSelect__item__list">
+                    <div class="topVisual__assessmentArea__setepSelect__item__list__selectBox">
+                      <select required="" id="js-assessment-municipality-2">
+                        <option value="">選択してください</option>
+                      </select>
+                    </div><span class="ok-icon" id="js-assessment-municipality-ok-2">OK</span>
+                  </div>
+                </div>
+              </div>
+              <div class"formWrap">
+                <div class="topVisual__assessmentArea__stepSelect__item">
+                  <div class="topVisual__assessmentArea__stepSelect__item__ttl">町名<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                  <div class="topVisual__assessmentArea__stepSelect__item__list">
+                    <div class="topVisual__assessmentArea__stepSelect__item__list__selectBox">
+                      <select required="" id="js-assessment-town-2">
+                        <option value="" selected="selected">選択してください</option>
+                      </select>
+                    </div><span class="ok-icon" id="js-assessment-town-ok-2">OK</span>
+                  </div>
+                </div>
+                <div class="topVisual__assessmentArea__stepSelect__item">
+                  <div class="topVisual__assessmentArea__stepSelect__item__ttl">丁目<img src="/images/baikyaku-lp_pc/index_ic08.png" alt="必須" width="35" height="18"></div>
+                  <div class="topVisual__assessmentArea__stepSelect__item__list">
+                    <div class="topVisual__assessmentArea__setepSelect__item__list__selectBox">
+                      <select required="" id="js-assessment-block-2">
+                        <option value="" selected="selected">選択してください</option>
+                      </select>
+                    </div><span class="ok-icon" id="js-assessment-block-ok-2">OK</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="topVisual__assessmentArea__oneFound" id="js-assessment-one-found-2" style="display:none;">
+            <div class="topVisual__assessmentArea__btnWrap">
+              <button class="topVisual__assessmentArea__btnWrap--mail rollover" id="js-assessment-mail-one-2"<span class="topVisual__assessmentArea__btnWrap--mail__inner"><span class="info">メールで無料査定に申込む</span></span></button>
+              <div class="topVisual__assessmentArea__btnWrap--tel inactive">
+                <div class="topVisual__assessmentArea__btnWrap--tel__inner">
+                  <p class="info">電話で無料査定に申込む</p>
+                  <p class="tel" id="js-assessment-tel-nember-2">-</p>
+                </div>
+              </div>
+            </div>
+            <div class="topVisual__assessmentArea__sTxWrapper">
+              <div class="topVisual__assessmentArea__sTxt">
+                <div class="storeName">担当店舗：<span id="js-assessment-organization-name-2">-</span></div>
+                <div class="storeinfo">定休日：<span id="js-assessment-organization-holiday-2">-</span><br>営業時間：<span id="js-assessment-organization-time-2">-</span></div>
+              </div>
+            </div>
+          </div>
+          <div class="topVisual__assessmentAreaPattern--multiFound" id="js-assessment-multi-found-2" style="display:none;">
+            <div class="topVisual__assessmentArea__btnWrap">
+              <button class="topVisual__assessmentArea__btnWrap--mail" id="js-assessment-meil-multi-2"><span class="topVisual__assessmentArea__btnWrap--mail__inner"><span lass="info">メールで無料査定に申込む</span></span></button>
+            </div>
+            <div class="topVisual__assessmentArea__sTxtWrapper">
+              <p class="topVisual__assessmentArea__sTxt">お選びいただいたエリアで複数の店舗が見つかりました。当社からお客様に最適な店舗をご提案させていただきますので、まずはメールでお問合せください。</p>
+            </div>
+          </div>
+          <div class"topVisual__assessmentAreaPattern--notFound" id="js-assessment-not-found-2" style="display: none;">
+            <div class="topVisual__assessmentArea__sTxtWrapper">
+              <p class="topVisual__assessmentArea__sTxt">大変申し訳ございません。<br>お客様がお選びいただいた地域は当社営業エリア外となっております。恐れ入りますが、物件所在地域の不動産会社へご相談ください。</p>
+            </div>
+          </div>
+          <div class="topVisual__assessmentAreaPattern--default" id="js-assessment-default-2">
+            <div class="topVisual__assessmentArea__btnWrap">
+              <div class="topVisual__assessmentArea__btnWrap--mail inactive">
+                <div class="infoForm" style="display:none;">物件種別を選択してください<br>都道府県を選択してください<br>市区町村を選択してください<br>町名を選択してください<br>丁目を選択してください</div>
+                <div class="topVisual__assessmentArea__btnWrap--mail__inner">
+                  <p class="info">メールで無料査定に申込む</p>
+                </div>
+              </div>
+              <div class="topVisual__assessmentArea__btnWrap--tel inactive">
+                <div class="topVisual__assessmentArea__btnWrap--tel__inner">
+                  <p class="info">電話で無料査定に申込む</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </section>
+  </section>
+</div>
+</main>
+
+    <footer class="o-footer">
+  <aside class="o-content">
+    <div class="o-content__inner o-content__inner--narrow">
+      <div class="m-ssl">
+        <p class="m-sll__logo">
+          <script src="https://seal.websecurity.norton.com/getseal?host_name=www.livable.co.jp&size=M&use_flash=NO&use_transparent=YES&lang=ja">
+          </script>
+        </p>
+        <p class="m-ssl__text a-text">東急リバブルへの個人情報送信は、SSL暗号化通信にて安全に行っていただけます。</p>
+      </div>
+    </div>
+  </aside>
+  <div class="o-footer__bottom">
+    <div class="o-footer__bottom-inner">
+      <p class="o-footer__catch">
+        <img class="a-image" src="/images/common/livable_logo_catchcopy.png" alt="美しい時代へ 東急グループ">
+      </p>
+      <small class="o-footer__copy">&copy; TOKYU LIVABLE,INC.All Right Reserved.</small>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=bdOUpx1&referrer=" + encodeURIComponent(document.location.href) + "";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=bdOUpx1" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<script src="/scripts/vendor.js?20200226120438" defer=""></script>
+<script src="/scripts/common.js?20200226120438" defer=""></script>
+<script src="/scripts/common-si.js?20200226120438" defer=""></script>
+<script src="/scripts/t0275.js?20200226120438" defer=""></script>    </body>
+</html>
